@@ -1,0 +1,23 @@
+{
+    "name": "workspace/calendar",
+    "description": "",
+    "authors": [
+        {
+            "name": "DevGiri",
+            "email": "dev.giridhari@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Calendar\\": ""
+        }
+    }
+}

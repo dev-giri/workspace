@@ -1,0 +1,35 @@
+{
+    "name": "dev-giri/workspace",
+    "description": "Workspace is a SAAS and Web Application Starter Kit",
+    "keywords": ["laravel", "admin", "panel", "saas"],
+    "license": "MIT",
+    "homepage": "https://workspace.in",
+    "support": {
+        "issues": "https://workspace.in/forums",
+        "source": "https://fresh.workspace.in"
+    },
+    "authors": [
+        {
+            "name": "DevGiri",
+            "email": "workspace@workspace.in"
+        }
+    ],
+    "require": {
+        "hyn/multi-tenant": "^5.8",
+        "nwidart/laravel-modules": "^9.0",
+        "tcg/voyager": "^1.6",
+    },
+    "autoload": {
+        "psr-4": {
+            "Workspace\\": "/"
+        }
+    },
+    "minimum-stability": "stable",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Workspace\\Http\\Providers\\WorkspaceServiceProvider"
+            ]
+        }
+    }
+}

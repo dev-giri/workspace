@@ -1,0 +1,11 @@
+{
+    "name": "Calendar",
+    "alias": "calendar",
+    "description": "Calendar module by Workspace.",
+    "keywords": ["calendar"],
+    "priority": 0,
+    "providers": [
+        "Modules\\Calendar\\Providers\\CalendarServiceProvider"
+    ],
+    "files": []
+}

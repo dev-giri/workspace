@@ -1,0 +1,11 @@
+{
+    "name": "Todo",
+    "alias": "todo",
+    "description": "Todo and notes management module.", 
+    "keywords": ["todo", "note"],
+    "priority": 0,
+    "providers": [
+        "Modules\\Todo\\Providers\\TodoServiceProvider"
+    ],
+    "files": []
+}

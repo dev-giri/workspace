@@ -1,0 +1,11 @@
+{
+    "name": "Chat",
+    "alias": "chat",
+    "description": "Real-Time Messaging System",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Chat\\Providers\\ChatServiceProvider"
+    ],
+    "files": []
+}
