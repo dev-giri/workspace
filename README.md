@@ -1,4 +1,4 @@
-# workspace
+# Workspace
 Workspace will help you to build Multi-Tenant SAAS application. Out of the box Administration, Modules (Plugin) manager, Themes manager, BREAD (CRUD) operations, Media manager, Menu builder, Authentication, Subscriptions, Invoices, Announcements, User Profiles, API, and so much more!
 
 Workspace is meant to serve as a Multi-Tenant starter kit, that will save you hundreds of hours, which is used to quickly create your SAAS app. When your application continues to grow you may wish to extend you application beyond Workspace's features. In the events that your features conflict with the core features, support may be limited.

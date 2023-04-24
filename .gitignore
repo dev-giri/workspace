@@ -4,6 +4,7 @@
 /storage/*.key
 /storage/app/tenancy
 /vendor
+composer.lock
 .env
 .env.backup
 .env.production
